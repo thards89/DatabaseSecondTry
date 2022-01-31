@@ -13,6 +13,24 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
         },
+
+        {
+          name: "Aida Bugg",
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
+
+        {
+          name: "Peg Legge",
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
+
+        {
+          name: "Olive Yew",
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
       ],
       {}
     );
