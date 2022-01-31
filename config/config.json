@@ -1,6 +1,6 @@
 {
   "development": {
-    "url": "postgres://qvbexgjf:taozyptrld107Ih6zevRZxGS00vDgSMi@castor.db.elephantsql.com/qvbexgjf"
+    "url": "postgres://qvbexgjf:hTlQ7-9onanYgH5j00wCiyc1Ztg7brhS@castor.db.elephantsql.com/qvbexgjf"
   },
   "test": {
     "username": "root",
